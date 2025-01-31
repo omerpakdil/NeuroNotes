@@ -1,0 +1,30 @@
+# Flask ve temel paketler
+Flask==3.0.2
+Flask-Cors==4.0.0
+python-dotenv==1.0.1
+gunicorn==21.2.0
+asgiref==3.7.2
+
+# OpenAI ve AI
+openai==1.12.0
+whisper==1.1.10
+tiktoken==0.6.0
+
+# Firebase
+firebase-admin==6.4.0
+
+# Güvenlik
+PyJWT==2.8.0
+bcrypt==4.1.2
+
+# Dosya işlemleri
+python-magic==0.4.27
+Pillow==10.2.0
+
+# Test
+pytest==8.0.2
+pytest-cov==4.1.0
+
+# Yardımcı araçlar
+requests==2.31.0
+python-dateutil==2.8.2 
